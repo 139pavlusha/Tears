@@ -1,0 +1,60 @@
+html {
+  font-size: 16px;
+}
+
+body {
+    font-family: “Lucida Sans Unicode”, “Lucida Grande”, sans-serif;
+  color: black;
+  height: 100%;
+  width: 100%;
+  background-color: #464f54;
+}
+
+
+.container {
+  position: relative;
+  margin: 80px auto;
+  background-color: white;
+  width: 50%;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.content {
+  border-left: 1px solid #464f54;
+  padding: 80px 50px 80px 20px;
+  margin-left: 50px;
+  
+}
+
+.author {
+  color: #464f54;
+}
+
+.header {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.question {
+  font-style: italic;
+  color: #464f54;
+  
+}
+
+.main_text {
+  margin-top: 40px;
+}
+
+.p_main_text {
+  margin-top: 20px;
+  text-align: justify;
+}
+
+.tittle {
+  position: absolute;
+}
