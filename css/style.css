@@ -3,13 +3,12 @@ html {
 }
 
 body {
-    font-family: “Lucida Sans Unicode”, “Lucida Grande”, sans-serif;
+  font-family: “Lucida Sans Unicode”, “Lucida Grande”, sans-serif;
   color: black;
   height: 100%;
   width: 100%;
   background-color: #464f54;
 }
-
 
 .container {
   position: relative;
@@ -25,10 +24,9 @@ h1 {
 }
 
 .content {
-  border-left: 1px solid #464f54;
-  padding: 80px 50px 80px 20px;
+  border-left: 3px solid #cfcfcf;
+  padding: 80px 50px 30px 20px;
   margin-left: 50px;
-  
 }
 
 .author {
@@ -56,5 +54,22 @@ h1 {
 }
 
 .tittle {
+  padding: 20px 0 25px 35px;
   position: absolute;
+  top: -60px;
+  right: -250px;
+  background-color: black;
+}
+
+.tittle p {
+  text-transform: uppercase;
+  color: gray;
+  font-size: 15px;
+}
+
+input {
+  background-color: transparent;
+  border: 0px;
+  font-size: 48px;
+  color: white;
 }
