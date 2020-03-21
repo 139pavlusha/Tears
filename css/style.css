@@ -48,11 +48,15 @@ h1 {
 }
 
 .main_text {
+  font-size: 18px;
+  line-height: 1.5;
   font-family: 'Lora', serif;
   margin-top: 40px;
 }
 
 .p_main_text {
+  font-size: 18px;
+  line-height: 1.5;
   font-family: 'Lora', serif;
   margin-top: 20px;
   text-align: justify;
